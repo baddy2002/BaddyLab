@@ -1,0 +1,12 @@
+[submodule "infrastructure"]
+	path = infrastructure
+	url = git@github.com:baddy2002/BaddyLabInfrastructure.git
+[submodule "deployments"]
+	path = deployments
+	url = git@github.com:baddy2002/BaddyLabDeployments.git
+[submodule "backends"]
+	path = backends
+	url = git@github.com:baddy2002/BaddyLabServices.git
+[submodule "frontends"]
+	path = frontends
+	url = git@github.com:baddy2002/BaddyLabFrontend.git
